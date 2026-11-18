@@ -1,39 +1,21 @@
-# Личный проект «Седона»
+# Лендинг город Седона
 
-* Студент: [Анастасия Кононова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2402573).
-* Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
+Учебный проект - вёрстка лендинга по готовому макету.
 
----
+[Живая версия](https://anastasiiaxx.github.io/Landing-City-of-Sedona/)
 
-_Не удаляйте и не обращайте внимание на файлы:_<br>
-_`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+## Что реализовано
 
----
+- Вёрстка страницы по макету pixel-perfect.
+- Семантическая разметка.
+- Flexbox и Grid.
+- Подключение шрифтов, оптимизация изображений.
+- Интерактивные элементы: ховеры, состояния кнопок и ссылок.
 
-### Памятка
+## Стек
 
-#### 1. Зарегистрируйтесь на Гитхабе
+HTML, CSS.
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+## Как запустить
 
-#### 2. Создайте копию
-
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/2402573-sedona-2) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037949-67a635d6-7bae-11e7-9f2f-1a48fde231b9.jpg">
-
-Получится вот так:
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037953-6a8a7384-7bae-11e7-83ac-59603b1d696c.jpg">
-
-#### 3. Скачайте репозиторий на свой компьютер
-
-Нажмите на зелёную кнопку «Code». Далее в выпавшем списке выберите пункт «Download ZIP». Выберите папку для скачивания на компьютер, например «Загрузки».
-
-#### 4. Начинайте обучение!
-
----
-
-<a href="https://htmlacademy.ru/intensive/htmlcss"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/htmlcss/logo-for-github-2.png"></a>
-
-Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Профессиональная вёрстка сайтов](https://htmlacademy.ru/intensive/htmlcss)» от [HTML Academy](https://htmlacademy.ru).
+Откройте `index.html` в браузере.
